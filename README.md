@@ -2,7 +2,7 @@
 Date List
 
 
-Class ID:  
+Class ID: Vulpix
 
 SRS ID: CST116SRS05  
 
